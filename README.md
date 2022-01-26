@@ -65,7 +65,7 @@ Korea Publication Industry Promotion Agency, Russian Publishing Market Overview,
 [**Будущее — сейчас** (блок «Литература»)](https://www.mibf.info/kr)  
 Мосовская международная книжная ярмарка, сентябрь 2020
 
-**Перевод как лингвокультурная медиация**
+**Перевод как лингвокультурная медиация**  
 Московский государственный лингвистический университет, ноябрь 2019
 
 [**Korean Literature Showcase 2019**](https://www.ltikorea.or.kr/en/pages/event/eventView.do?eventIdx=4736)  
