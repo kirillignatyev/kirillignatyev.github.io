@@ -105,8 +105,26 @@ MBA Стратегический менеджмент
 **Лидерство нового времени и эмоциоальный интеллект**  
 Корпоративный университет Эксмо-АСТ, 2021
 
+**[Marketing](https://www.datacamp.com/statement-of-accomplishment/course/df9ba0aa8de7a0cc5716849c771c0f4df9986695) & [Financial](https://www.datacamp.com/statement-of-accomplishment/course/a3a097df932f16fba478f04dcfd2438e7c50b177) Analytics in Spreadsheets**  
+DataCamp, 2021
+
+**[Error and Uncertainty in Spreadsheets](https://www.datacamp.com/statement-of-accomplishment/course/f7d9089499d00990f9040e938e607352baa4e90b)**  
+DataCamp, 2021
+
 **Экономика и аналитика для руководителей**  
 Корпоративный университет Эксмо-АСТ, 2020
+
+**[Introduction to Statistics in Spreadsheets](https://www.datacamp.com/statement-of-accomplishment/course/5c4eb7f2edb27a3bbca9626e401314439336a4af)**  
+DataCamp, 2020
+
+**[Data Visualization](https://www.datacamp.com/statement-of-accomplishment/course/fac6c5de2e1c0330de836e55328b28df19420793) & [Pivot Tables](https://www.datacamp.com/statement-of-accomplishment/course/59500e9984f23d02c247ab250b3481ca67a620f5) in Spreadsheets**  
+DataCamp, 2020
+
+**[Intermediate Spreadsheets](https://www.datacamp.com/statement-of-accomplishment/course/ec82c46d34462a8c0de49a4562947c24b1df3447)**  
+DataCamp, 2020
+
+**Data Analysis in [Excel](https://www.datacamp.com/statement-of-accomplishment/course/af18f296abb33bc69e86f1dc7ac8f14bd69b4ba6) & [Spreadsheets](https://www.datacamp.com/statement-of-accomplishment/course/8fb7140e60dcfe16e8f80c62d302478afd512f11)**  
+DataCamp, 2020
 
 **Зарубежные рынки: контент, права, экранизации**  
 Издательская школа Франкфуртской книжной ярмарки, 2019
