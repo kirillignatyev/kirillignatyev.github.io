@@ -2,7 +2,7 @@
 
 Москва, Россия
 
-[email](mailto:kvignatyev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kirill-ignatyev/) | [Facebook](https://www.facebook.com/kirill.ignatiev)
+[email](mailto:kvignatyev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kirill-ignatyev/)
 
 ## Обо мне
 
